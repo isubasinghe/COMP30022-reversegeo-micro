@@ -1,0 +1,14 @@
+{
+  "name": "comp30022-reversegeo-micro",
+  "version": "1.0.0",
+  "description": "A simple lambda to reverse geocode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mapbox/mapbox-sdk": "^0.7.0"
+  }
+}
